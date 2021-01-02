@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "dependencies": {
     "firebase": "^7.16.0",
-    "formik": "^2.1.4",
+    "formik": "^2.2.6",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-router": "5.1.2",
